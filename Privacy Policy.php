@@ -6,10 +6,7 @@
 </head>
 <body>
   
-<?php
-
- echo " </tr> " ;
- ?>
+hello
 </table>
 </body>
 </html>
