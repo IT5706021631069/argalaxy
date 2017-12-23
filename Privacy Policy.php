@@ -3,7 +3,7 @@
 <title>Privacy Policy</title>
 </head>
 <body>
-<p>
-Privacy Policy
-</p>
+<?php
+echo"sfds";
+?>
 </body></html>
