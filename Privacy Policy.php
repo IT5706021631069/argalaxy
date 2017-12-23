@@ -1,9 +1,3 @@
-<html>
-<head>
-<title>Privacy Policy</title>
-</head>
-<body>
 <?php
-echo"sfds";
+echo "sfds";
 ?>
-</body></html>
